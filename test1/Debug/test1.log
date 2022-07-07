@@ -1,0 +1,4 @@
+﻿  test1.cpp
+C:\Users\admin\Desktop\vs2019Code\CppCode\test1\test1.cpp(11,28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\admin\Desktop\vs2019Code\CppCode\test1\test1.cpp(9,7): warning C4101: “c”: 未引用的局部变量
+  test1.vcxproj -> C:\Users\admin\Desktop\vs2019Code\CppCode\test1\Debug\test1.exe
