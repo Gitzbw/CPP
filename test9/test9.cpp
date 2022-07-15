@@ -1,0 +1,14 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+
+	pair<int, int> p(1, 2);
+	
+
+
+	return 0;
+}
